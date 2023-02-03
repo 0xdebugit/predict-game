@@ -35,3 +35,7 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Sample Result
+
+Checkout two snapshot sample_1.png & sample_2.png
