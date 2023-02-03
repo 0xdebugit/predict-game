@@ -12,7 +12,7 @@ export default function Game(){
               <title>Predict Game</title>
             </Head>     
 
-            <div className={`w-screen max-w-screen-sm md:max-w-screen-lg flex flex-col`}>
+            <div className={`w-screen max-w-screen-sm md:max-w-screen-lg flex flex-col bg-zinc-100`}>
               <NavBar />
 
               <FeatureForm />
