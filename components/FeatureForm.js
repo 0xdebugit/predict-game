@@ -45,8 +45,9 @@ export default function FeatureForm(){
         };        
 
         try {          
-          const response = await fetch('/predict', requestOptions);
-          const {prediction} = await response.json();
+        //   const response = await fetch('/predict', requestOptions);
+        //   const {prediction} = await response.json();
+        let prediction = Math.floor(Math.random() * 3);
   
           await new Promise(r => setTimeout(r, 2000)); //mock to simulate progress
   
