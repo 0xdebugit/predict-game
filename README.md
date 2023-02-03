@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Online Demo
 
-The mock version of this UI is hosted at [http://localhost:3000](http://localhost:3000)
+The mock version of this UI is hosted at [https://predict-game.vercel.app/](https://predict-game.vercel.app/)
 
 ## Run Locally
 

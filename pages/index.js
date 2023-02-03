@@ -2,8 +2,6 @@ import Head from "next/head";
 import NavBar from '../components/NavBar';
 import FeatureForm from "@/components/FeatureForm";
 
-import { useState, useEffect } from "react";
-
 export default function Game(){
        
     return(
